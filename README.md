@@ -68,4 +68,4 @@ We welcome contributions from the community. If you'd like to contribute to the 
 5. Our team will review your contribution, provide feedback, and merge it if it aligns with the project's goals.
 
 
-Feel free to reach out to us if you have any questions or need assistance with the QR Code Generator. Happy coding!
+Feel free to reach out to us if you have any questions or need assistance with the QR Code Generator. 
